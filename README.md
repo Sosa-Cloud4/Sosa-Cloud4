@@ -12,7 +12,7 @@ Programmer with experience in game and software development, proficient in multi
 ### Skills
 
 * **Languages:** Lua, LuaU, C#, C++, Python, SQL, HTML, CSS
-* **Tools:** Roblox Studio, Visual Studio Code, GitHub, Git, 
+* **Tools:** Roblox Studio, Visual Studio Code, GitHub, Git
 * **Areas:** Fullstack Development, Game Development, UI/UX Design, Systems Programming, Reverse Engineering
 
 ### Experience
