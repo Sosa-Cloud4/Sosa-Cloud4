@@ -20,3 +20,7 @@ Programmer with experience in game and software development, proficient in multi
 **Horror Skirmish**
 
 * *Programmer · 19 July 2025 – Present*
+
+**Spiral**
+
+* *Programmer · 22 Dec 2025 – Present*
